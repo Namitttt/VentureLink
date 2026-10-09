@@ -1,4 +1,4 @@
-# 🚀 VentureLink | Universal Micro-Venture Marketplace
+# 🚀 VyapaarLink| Universal Micro-Venture Marketplace
 
 > **Democratizing early-stage funding for neighborhood shops, physical makers, and digital startups.**
 
