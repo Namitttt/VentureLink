@@ -1,4 +1,4 @@
-# 🚀 VyapaarLink| Universal Micro-Venture Marketplace
+# 🚀 VentureLink| Universal Micro-Venture Marketplace
 
 > **Democratizing early-stage funding for neighborhood shops, physical makers, and digital startups.**
 
@@ -10,5 +10,5 @@ VentureLink bridges the gap between ambitious builders and micro-investors. Unli
 - **Milestone-Based Escrow:** Protects investor capital by releasing funds against verifiable execution proofs and real-world milestones.
 - **Smart Thesis Matching:** Pairs founders and backers using categorized criteria (category, geography, check size, and preferred return model).
 
-# VyapaarLink
+# VentureLink
 VentureLink — A universal micro-venture marketplace connecting physical shops, makers, and digital startups with micro-investors through milestone escrow, thesis matching, and revenue-share deal structures.
